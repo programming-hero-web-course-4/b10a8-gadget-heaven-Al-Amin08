@@ -14,12 +14,9 @@
 - can delete product ,if you don't want to purchase it.
 - also add product in wishlist
 
-# **ES6 features used**
 
-1. Using arow function
-1. Using async fuction
 
----
+
 
 # **What you have used for handling and managing data (contextAPI/local storage)**
 
