@@ -1,0 +1,150 @@
+[
+  {
+    "product_id": "LP001",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/BHnhxX3v/dell-xps-13-9340-main.webp",
+    "category": "laptops",
+    "price": 1200,
+    "description": "Ultra-thin laptop with a stunning display and powerful performance.",
+    "Specification": [
+      "13.4-inch FHD+ display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": false,
+    "rating": 2.5
+  },
+  {
+    "product_id": "LP002",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/fYJ44swy/1-apple-macbook-air-m2-review.jpg",
+    "category": "laptops",
+    "price": 1300,
+    "description": "Lightweight and powerful laptop with Apple's M2 chip.",
+    "Specification": [
+      "13.6-inch Retina display",
+      "Apple M2 chip",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "LP003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/M0NwV8g/hp-spectre-1.webp",
+    "category": "laptops",
+    "price": 1400,
+    "description": "Convertible laptop with a sleek design and excellent battery life.",
+    "Specification": [
+      "14-inch 4K display",
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "LP004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/7d3vqPrD/lenovo-thinkpad-x1-carbon-gen-12-zjhe.jpg",
+    "category": "laptops",
+    "price": 1500,
+    "description": "Business laptop with robust build quality and top-notch performance.",
+    "Specification": [
+      "14-inch WQHD display",
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "LP005",
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/1GFq8Xm5/Bh-FAnnf8-NRfv8-E8-Yo2xp-Zk.jpg",
+    "category": "laptops",
+    "price": 1600,
+    "description": "Gaming laptop with a powerful GPU and compact design.",
+    "Specification": [
+      "14-inch QHD display",
+      "AMD Ryzen 9",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "LP006",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.ibb.co.com/xSVbk4TL/Acer-Swift-3-hd-pic.jpg",
+    "category": "laptops",
+    "price": 800,
+    "description": "Affordable and lightweight laptop for everyday use.",
+    "Specification": [
+      "14-inch FHD display",
+      "AMD Ryzen 5",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "PH001",
+    "product_title": "iPhone 15 Pro",
+    "product_image": "https://i.ibb.co.com/wF82wCBw/54063-109154-i-Phone-15-Pro-table-2-xl.jpg",
+    "category": "phones",
+    "price": 1100,
+    "description": "Flagship smartphone with a powerful A17 chip and advanced camera system.",
+    "Specification": [
+      "6.1-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "128GB storage"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "PH002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/TxdPw3qN/samsung.jpg",
+    "category": "phones",
+    "price": 1200,
+    "description": "Premium Android phone with a large display and versatile camera setup.",
+    "Specification": [
+      "6.8-inch Dynamic AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "SW001",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/Lhc20GNw/watch-face-full-view-apple-watch-8.jpg",
+    "category": "smart watches",
+    "price": 400,
+    "description": "Advanced smartwatch with health monitoring features and a sleek design.",
+    "Specification": ["45mm display", "Blood oxygen sensor", "ECG app"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "SW002",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/jZBB2K4V/samsung-galaxy-watch-5-trio-1.jpg",
+    "category": "smart watches",
+    "price": 300,
+    "description": "Feature-packed smartwatch with long battery life and fitness tracking.",
+    "Specification": ["44mm display", "Sleep tracking", "GPS"],
+    "availability": true,
+    "rating": 4.6
+  }
+]
