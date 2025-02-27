@@ -23,15 +23,17 @@
 
 # **What you have used for handling and managing data (contextAPI/local storage)**
 
--COntext Api
+-Context Api
 
 # **List of React Fundamental concepts used in the project**
 
 - React hook
 - React router
 
+# **Github link**
+
+- https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-Al-Amin08
+
 # **Live link to the deployed project**
 
-<p>
-  
-</p>
+- https://gadget-heaven-284994.netlify.app/
